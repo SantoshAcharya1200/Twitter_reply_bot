@@ -6,10 +6,10 @@ import random
 print('this is my twitter bot', flush=True)
 
 # credentials to login to twitter api
-consumer_key = 'oaRIwSuor3TkRHJugpEVcEYGc'
-consumer_secret = 'yIBgIKiyBKmmdTP7hg7oGqp5z5IZAUQDa2vya8uWMnOTBnsXBM'
-access_token = '1110844547972526081-aFlW7SodvRyaOLgKTWt4sOgizUyElO'
-access_secret = 'BSSKflPR7iGqpWMd6g23sYU3KEbOfhRbRIZVZgnaEVlvI'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_secret = ''
 
 # login to twitter account api
 auth = tp.OAuthHandler(consumer_key, consumer_secret)
